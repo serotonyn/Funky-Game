@@ -1,4 +1,4 @@
-# Funky-Game
+# Guessit
 Social Game
 
 ### Restrictions / Motivations / Gameplay
@@ -62,3 +62,11 @@ Social Game
 | Host starts the game | Generates the questions |
 
 #### 1st Part
+Games plays like team taboo. One describer and guessers.
+WIth the particularity that comes with each topic. Ex: Pronunciation (phonetic script), here the guessers can choose from a list of words (phonetics) instead of typing it. (tedious cause special characters).
+
+at the end of the 1st part, players with the hightest scores (two players) will play the next part.
+
+### 2sd part
+
+basically, french show _Mot de passe_
